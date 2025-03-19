@@ -13,7 +13,7 @@ Wintereum is a community-driven cryptocurrency. The Winter Core allows anyone op
 
 Anyone who contributes to network can be earned Wintereum.
 ## Usage
-To start your journey with Winter Core, see the [installation guide](INSTALLION.md) and [documents](docs/README.md).
+To start your journey with Winter Core, see the [installation guide](INSTALLATION.md) and [documents](docs/README.md).
 ### Ports
 Winter Core by default uses port `11226` for peer-to-peer is needed to synchronize the `mainnet` blockchain and get new transactions and blocks.
 
