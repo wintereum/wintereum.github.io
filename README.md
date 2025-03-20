@@ -9,7 +9,7 @@
 Learning more about Wintereum (Winter Network).
 
 ## Getting started
-Wintereum is a community-driven cryptocurrency. The Winter Core allows anyone operate a node to in the blockchain networks and use SHA256 hashing method Proof-of-Work(PoW) to improve blockchain networks.
+Wintereum is a community-driven cryptocurrency. The Winter Core allows anyone operate a node in the blockchain networks and use SHA256 hashing method Proof-of-Work(PoW) to improve blockchain networks.
 
 Anyone who contributes to network can be earned Wintereum.
 ## Usage
@@ -24,14 +24,14 @@ Winter Core by default uses port `11226` for peer-to-peer is needed to synchroni
 | P2P      |   11225 |   11125 |  11115 |
 | RPC      |   11226 |   11126 |  11116 |
 ## Ongoing development
-Winter Core is open-source project.
+Winter Core is an open-source project.
 
-Main devolopment resources:
+Main development resources:
 
 * [Github Projects](https://github.com/wintereum/wintereum)
 
 ### Version state
-Version following ```major.minor.revison``` semantics.
+Version following ```major.minor.revision``` semantics.
 
 ## Contributing
-If you want contribute, we I would be very welcome.
+If you contribute, we would be very welcome.
